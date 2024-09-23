@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaswanth Dogga</h1>
-<h3 align="center">Welcome to my GitHub repository! I am a passionate **software engineer** 🖥️, constantly driven by a desire to **learn, explore, and code**. From tackling complex problems to building clean, efficient solutions, I enjoy every moment of my coding journey.</h3>
+<h3 align="center">Welcome to my GitHub repository! I am a passionate software engineer 🖥️, constantly driven by a desire to learn, explore, and code. From tackling complex problems to building clean, efficient solutions, I enjoy every moment of my coding journey.</h3>
 
 - 🔭 I’m currently working on **Creating Chatbots using Whatsapp**
 
@@ -10,8 +10,10 @@
 - 👨‍💻 All of my projects are available at [https://linktr.ee/jaswanthdogga](https://linktr.ee/jaswanthdogga)
 
 - 📝 I regularly write articles on [https://jaswanth-dogga.hashnode.dev/](https://jaswanth-dogga.hashnode.dev/)
+  
+- 📄 You can look into my resume here: [RESUME](https://drive.google.com/file/d/1xYVgeS_uPZ1VP23UOWxUb61hUqrmwm-E/view?usp=sharing)
 
-- 💬 Ask me about **Python, Figma,**
+- 💬 Ask me about **Python, HTML, CSS, JS, React, SQL, ,PowerBI, Figma, MS-Word, MS- PowerPoint, MS-Excel**
 
 - 📫 How to reach me **jaswanthdogga01@gmail.com**
 
